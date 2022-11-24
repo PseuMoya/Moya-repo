@@ -1,0 +1,11 @@
+C:\Users\ComputerLab4PC1\source\repos\FileReader_Moya\bin\Debug\FileReader_Moya.exe.config
+C:\Users\ComputerLab4PC1\source\repos\FileReader_Moya\bin\Debug\FileReader_Moya.exe
+C:\Users\ComputerLab4PC1\source\repos\FileReader_Moya\bin\Debug\FileReader_Moya.pdb
+C:\Users\ComputerLab4PC1\source\repos\FileReader_Moya\obj\Debug\FileReader_Moya.FrmOpentTextFile.resources
+C:\Users\ComputerLab4PC1\source\repos\FileReader_Moya\obj\Debug\FileReader_Moya.Properties.Resources.resources
+C:\Users\ComputerLab4PC1\source\repos\FileReader_Moya\obj\Debug\FileReader_Moya.csproj.GenerateResource.cache
+C:\Users\ComputerLab4PC1\source\repos\FileReader_Moya\obj\Debug\FileReader_Moya.exe
+C:\Users\ComputerLab4PC1\source\repos\FileReader_Moya\obj\Debug\FileReader_Moya.pdb
+C:\Users\ComputerLab4PC1\source\repos\FileReader_Moya\obj\Debug\FileReader_Moya.frmRegistration.resources
+C:\Users\ComputerLab4PC1\source\repos\FileReader_Moya\obj\Debug\FileReader_Moya.FrmStudentRecord.resources
+C:\Users\ComputerLab4PC1\source\repos\FileReader_Moya\obj\Debug\FileReader_Moya.csprojAssemblyReference.cache
