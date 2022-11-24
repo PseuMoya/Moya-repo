@@ -1,0 +1,11 @@
+C:\Users\ComputerLab4PC1\source\repos\Lab01_Moya_Create\bin\Debug\Lab01_Moya_Create.exe.config
+C:\Users\ComputerLab4PC1\source\repos\Lab01_Moya_Create\bin\Debug\Lab01_Moya_Create.exe
+C:\Users\ComputerLab4PC1\source\repos\Lab01_Moya_Create\bin\Debug\Lab01_Moya_Create.pdb
+C:\Users\ComputerLab4PC1\source\repos\Lab01_Moya_Create\obj\Debug\Lab01_Moya_Create.csprojAssemblyReference.cache
+C:\Users\ComputerLab4PC1\source\repos\Lab01_Moya_Create\obj\Debug\Lab01_Moya_Create.FrmFileName.resources
+C:\Users\ComputerLab4PC1\source\repos\Lab01_Moya_Create\obj\Debug\Lab01_Moya_Create.FrmLab1.resources
+C:\Users\ComputerLab4PC1\source\repos\Lab01_Moya_Create\obj\Debug\Lab01_Moya_Create.Properties.Resources.resources
+C:\Users\ComputerLab4PC1\source\repos\Lab01_Moya_Create\obj\Debug\Lab01_Moya_Create.csproj.GenerateResource.cache
+C:\Users\ComputerLab4PC1\source\repos\Lab01_Moya_Create\obj\Debug\Lab01_Moya_Create.exe
+C:\Users\ComputerLab4PC1\source\repos\Lab01_Moya_Create\obj\Debug\Lab01_Moya_Create.pdb
+C:\Users\ComputerLab4PC1\source\repos\Lab01_Moya_Create\obj\Debug\Lab01_Moya_Create.FrmRegistration.resources
