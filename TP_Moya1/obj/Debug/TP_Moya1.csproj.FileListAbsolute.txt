@@ -1,0 +1,11 @@
+C:\Users\ComputerLab4PC1\source\repos\TP_Moya1\bin\Debug\TP_Moya1.exe.config
+C:\Users\ComputerLab4PC1\source\repos\TP_Moya1\bin\Debug\TP_Moya1.exe
+C:\Users\ComputerLab4PC1\source\repos\TP_Moya1\bin\Debug\TP_Moya1.pdb
+C:\Users\ComputerLab4PC1\source\repos\TP_Moya1\obj\Debug\TP_Moya1.FrmCalculator.resources
+C:\Users\ComputerLab4PC1\source\repos\TP_Moya1\obj\Debug\TP_Moya1.Properties.Resources.resources
+C:\Users\ComputerLab4PC1\source\repos\TP_Moya1\obj\Debug\TP_Moya1.csproj.GenerateResource.cache
+C:\Users\ComputerLab4PC1\source\repos\TP_Moya1\obj\Debug\TP_Moya1.exe
+C:\Users\ComputerLab4PC1\source\repos\TP_Moya1\obj\Debug\TP_Moya1.pdb
+C:\Users\ComputerLab4PC1\source\repos\TP_Moya1\obj\Debug\TP_Moya1.csprojAssemblyReference.cache
+C:\Users\ComputerLab4PC1\source\repos\TP_Moya1\obj\Debug\TP_Moya1.csproj.CopyComplete
+C:\Users\ComputerLab4PC1\source\repos\TP_Moya1\bin\Debug\Calculate.dll
